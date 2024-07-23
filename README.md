@@ -102,3 +102,5 @@ class ActLayer:
 
 # Network Model
 The Network class is the core of the neural network, handling the addition of layers, forward passes, backpropagation, and training.
+
+***for this documentation don't be too long, visit the code to see the network model***
