@@ -2,6 +2,8 @@
 
 This project is an implementation of a basic neural network built entirely from scratch using Python. The code includes the construction of dense layers, activation functions, and a simple training process using backpropagation. It leverages popular libraries such as NumPy and Pandas for data manipulation and Scikit-learn for preprocessing. The network uses mean squared error as the loss function for training.
 
+***there will be a code version and documentation in portuguese br and english***
+
 ## Table of Contents
 
 - [Installation](#installation)
