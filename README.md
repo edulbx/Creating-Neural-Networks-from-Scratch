@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Neural Network from Scratch
 
 This project is an implementation of a basic neural network built entirely from scratch using Python. The code includes the construction of dense layers, activation functions, and a simple training process using backpropagation. It leverages popular libraries such as NumPy and Pandas for data manipulation and Scikit-learn for preprocessing. The network uses mean squared error as the loss function for training.
@@ -19,7 +17,7 @@ To run this project, ensure you have Python 3 installed. You can set up the envi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/neural-network-from-zero.git
+git clone https://github.com/yourusername/neural-network-from-Scratch.git
 cd neural-network-from-scratch
 
 # Create a virtual environment
