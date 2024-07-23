@@ -1,2 +1,2 @@
 # Creating-Neural-Networks-from-zero
- Using just Sciktlearn
+ Using just sklearn and Numpy
